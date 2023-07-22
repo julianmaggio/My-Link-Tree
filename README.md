@@ -1,0 +1,3 @@
+# My-Link-Tree
+
+"My Link Tree" is a simple and customizable HTML page designed to serve as a link tree, providing a centralized platform to share multiple website links with visitors. Built using Bulma CSS framework and featuring a visually appealing custom font, the page presents a list of buttons, each linking to a specific website. Before redirection, a precautionary JavaScript warning popup seeks confirmation from users, ensuring a secure and trustworthy browsing experience. Easily customizable, this repository allows users to personalize the background image, font, button styles, and more to match their preferences and branding. Simplify link sharing and enhance user engagement with "My Link Tree" repository.
