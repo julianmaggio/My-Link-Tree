@@ -42,7 +42,7 @@ You can customize this Link Tree page to match your preferences and branding. He
 ## Images and Videos
 
 ![Screenshot 1](https://git.kukikugames.com/Julian/My-Link-Tree/raw/commit/932caf35a19d511abeb3137cd2a870007f2f185d/screenshots/Skærmbillede%202023-07-22%20172853.png)
-![Screenshot 2](https://git.kukikugames.com/Julian/My-Link-Tree/raw/commit/932caf35a19d511abeb3137cd2a870007f2f185d/screenshots/Skærmbillede%202023-07-22%20172853.png)
+![Screenshot 2](https://git.kukikugames.com/Julian/My-Link-Tree/raw/commit/932caf35a19d511abeb3137cd2a870007f2f185d/screenshots/Skærmbillede%202023-07-22%20172908.png)
 
 ## License
 
