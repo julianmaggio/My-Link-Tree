@@ -6,6 +6,7 @@ Welcome to My Link Tree! This is a simple HTML page that serves as a link tree, 
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Customization](#customization)
+- [Images and Videos](#images-and-videos)
 - [License](#license)
 
 ## Introduction
@@ -37,6 +38,9 @@ You can customize this Link Tree page to match your preferences and branding. He
 - **Button Colors**: Modify the CSS code for the `.button` class to change the appearance of the buttons, such as background color, text color, or size.
 
 - **Popup Text**: Customize the warning popup text in the JavaScript code by updating the `You will now enter ${url}` string to provide more context for your visitors.
+
+## Images and Videos
+
 
 ## License
 
